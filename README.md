@@ -6,3 +6,6 @@ This project was done for the course "Programmierpraktikum" in Fall 2019 at the 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=gJQTFhkhwPA"><img src="https://www.youtube.com/watch?v=gJQTFhkhwPA/0.jpg" alt="video"></a>
 </div>
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
