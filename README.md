@@ -4,5 +4,5 @@ This repository contains a simple implementation of a [Turing machine](https://e
 This project was done for the course "Programmierpraktikum" in Fall 2019 at the University of Wuerzburg.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=gJQTFhkhwPA"><img src="https://www.youtube.com/watch?v=gJQTFhkhwPA/0.jpg" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=gJQTFhkhwPA"><img src="https://www.youtube.com/watch?v=gJQTFhkhwPA/0.jpg" alt="video"></a>
 </div>
